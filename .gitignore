@@ -33,3 +33,7 @@ visuals/*.svg
 .idea/
 .DS_Store
 Thumbs.db
+
+!data/
+!data/delivery.csv
+!data/matches.csv
